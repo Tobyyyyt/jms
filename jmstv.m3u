@@ -96,6 +96,14 @@ http://223.110.251.219:6610/gitv/live1/G_JILIN/G_JILIN/.m3u8
 http://223.110.251.219:6610/gitv/live1/G_XIAMEN/G_XIAMEN/.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="中国",山西卫视
 http://223.110.251.219:6610/gitv/live1/SXWS/SXWS/.m3u8
+#EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="中国",三沙卫视
+http://pull2.ssws.tv/live/SswsTV20210803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="中国",CHC高清电影
+http://iptv.tvfix.org/hls/chchd.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="中国",CHC家庭影院
+http://iptv.tvfix.org/hls/chctv.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="中国",CHC动作电影
+http://iptv.tvfix.org/hls/chcatv.m3u8
 #EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="中国",求索科学
 http://39.134.134.85/000000001000/6000000002000032344/1.m3u8
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="中国",求索纪录
@@ -114,6 +122,44 @@ http://223.111.195.58/keonline.shanghai.liveplay.qq.com/live/program/live/qjshd/
 http://39.135.129.165/hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226714/index.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="中国",金鹰纪实(备)
 http://39.130.202.81:6610/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
+#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="体育",极速汽车
+http://iptv.tvfix.org/hls/jsqchd.m3u8
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="体育",劲爆体育
+http://iptv.tvfix.org/hls/jbtyhd.m3u8
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="体育",新视觉
+http://iptv.tvfix.org/hls/xsjhd.m3u8
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="体育",魅力足球
+http://iptv.tvfix.org/hls/mlzqhd.m3u8
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="体育",游戏风云
+http://iptv.tvfix.org/hls/yxfyhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="日本ANN新闻" tvg-logo="" group-title="油管",日本ANN新闻
+https://iptv.jmsooo.com/live/annnews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CTI中天新闻" tvg-logo="" group-title="油管",CTI中天新闻
+https://iptv.jmsooo.com/live/ctiztxw/index.m3u8
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="油管",TVBS 新闻
+https://iptv.jmsooo.com/live/tvbsxw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVBS56" tvg-logo="" group-title="油管",TVBS56
+https://iptv.jmsooo.com/live/tvbs56/index.m3u8
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="油管",寰宇新闻
+https://iptv.jmsooo.com/live/hyxw/index.m3u8
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="油管",东森新闻
+https://iptv.jmsooo.com/live/dsxw/index.m3u8
+#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="油管",台视新闻
+https://iptv.jmsooo.com/live/tsxw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="油管",三立 LIVE
+https://iptv.jmsooo.com/live/sl/index.m3u8
+#EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="油管",三立 iNEWS
+https://iptv.jmsooo.com/live/sli/index.m3u8
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="油管",民视新闻
+https://iptv.jmsooo.com/live/ctiztxw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="油管",华视新闻
+https://iptv.jmsooo.com/live/msxw/index.m3u8
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="油管",中视新闻
+https://iptv.jmsooo.com/live/hsxw/index.m3u8
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="油管",东森财经
+https://iptv.jmsooo.com/live/dscj/index.m3u8
+#EXTINF:-1 tvg-id="6110" tvg-name="运通财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EFTV.png" group-title="油管",运通财经
+https://iptv.jmsooo.com/live/ytcj/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="特区",凤凰资讯
 http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="特区",凤凰资讯
