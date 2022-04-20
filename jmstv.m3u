@@ -153,7 +153,7 @@ http://iptv.tvfix.org/hls/shdfyshd.m3u8
 http://iptv.tvfix.org/hls/shdspdhd.m3u8
 #EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="中国",上视外语频道
 http://iptv.tvfix.org/hls/shwypdhd.m3u8
-#EXTINF:-1 tvg-id="1977" tvg-name="五星体育" tvg-logo="" group-title="体育",五星体育
+#EXTINF:-1 tvg-id="1977" tvg-name="五星体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="体育",五星体育
 http://iptv.tvfix.org/hls/wxtyhd.m3u8
 #EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="体育",极速汽车
 http://iptv.tvfix.org/hls/jsqchd.m3u8
